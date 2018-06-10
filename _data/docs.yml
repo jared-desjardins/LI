@@ -1,11 +1,30 @@
-- title: Getting Started
+- title: 1. Introduction
   docs:
-  - home
-  - themes
-  - customization
+  - 1.1. Development of Lexicalism
+  - 1.2. LI Today and Its Challenges
 
-- title: Examples
+- title: 2. Violations of LI
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - 2.1. Overview of LI Violation Types
+  
+- title: 3. Theoretical Survey
+  docs:
+  - 3.1. Overview of Linguistic Theories
+  - 3.2. Theoretical Survey Observations
+  
+- title: 4. Typological Survey
+  docs:
+  - 4.1. Approaches to Morphological Typology
+  - 4.2. Typological Survey Observations
+  
+- title: 5. Concluding Remarks
+  docs:
+  - 5.1. On the Nature of the Morphology-Syntax Interface
+
+- title: 6. End Matter
+  docs:
+  - 6.1. References
+  - 6.2. List of Abbreviations
+  - 6.3. Taxonomy of LI Violations
+  - 6.4. Typological Survey Tables
+  - 6.5. Typological Survey Sources
