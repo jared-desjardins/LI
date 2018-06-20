@@ -1,9 +1,9 @@
 # A documentation website for research papers.
 A Jekyll theme for creating project documentation websites. I may or may not update this README file further.
 
-- <a href="http://github.com/aksakalli/jekyll-doc-theme">Original Jekyll Doc Theme Live Demo</a>
+- <a href="http://aksakalli.github.io/jekyll-doc-theme/">Original Jekyll Doc Theme Live Demo</a>
 
-- <a href="http://aksakalli.github.io/jekyll-doc-theme/">Original Jekyll Doc Theme Repository</a>
+- <a href="http://github.com/aksakalli/jekyll-doc-theme">Original Jekyll Doc Theme Repository</a>
 
 <hr/>
 
