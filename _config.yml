@@ -1,9 +1,7 @@
 # Site settings
 title: On Lexical Integrity
 email: jared.desjardins@colorado.edu
-description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+description: A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Nature of the Morphology–Syntax Interface
 
 baseurl: "/LI" # the subpath of your site, e.g. /blog/
 url: http://jared-desjardins.github.io/LI # the base hostname & protocol for your site
@@ -29,7 +27,9 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
-timezone: Europe/Berlin
+  
+timezone: America/Denver
+
 defaults:
 - scope:
     path: _posts
