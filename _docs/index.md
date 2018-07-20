@@ -1,5 +1,5 @@
 ---
-title: A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Morphology-Syntax Interface
+title: 1. Introduction
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
