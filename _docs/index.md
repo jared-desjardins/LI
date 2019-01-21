@@ -6,12 +6,10 @@ redirect_from: /docs/index.html
 
 ***
 
-*Please use the menu to your left (or above, depending on your browser) to navigate to each section of this paper. Footnotes are hyperlinked throughout, and at the bottom of each page are forward and backward buttons, which will progress (or regress) to the next (prior) section. Alternatively, a pdf of this paper is available [**here**](http://www.researchgate.net/publication/328773017_A_Cross-theoretical_and_Cross-linguistic_Survey_of_Lexical_Integrity_and_the_Morphology-Syntax_Interface), or by following the link at the top of this page.*
+*Please use the menu to your left (or above, depending on your browser) to navigate to each section of this paper. Footnotes are hyperlinked throughout, and at the bottom of each page are forward and backward buttons, which will progress (or regress) to the next (prior) section.*
 
 <br/>
 
-**Note:** *There may be minor discrepancies (e.g., styling and formatting, typos, etc.) between the electronic (web-based) version and the pdf, for which the author apoligizes. These potential discrepancies do not affect the overall argumentation and observations provided in the paper.*
+**Note:** *Please [**download the pdf**](http://www.researchgate.net/publication/328773017_A_Cross-theoretical_and_Cross-linguistic_Survey_of_Lexical_Integrity_and_the_Morphology-Syntax_Interface) for the most current version of this paper. This web-based version is no longer being updated.*
 
 <br/>
-
-<sup>Rev. 10/6/18</sup>
